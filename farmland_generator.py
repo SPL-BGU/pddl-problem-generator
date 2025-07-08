@@ -3,15 +3,13 @@
 # and open the template in the editor.
 # !/usr/bin/python3
 import argparse
-import itertools
 import random
 from enum import Enum
 from pathlib import Path
 from typing import NoReturn
 
 import networkx as nx
-
-from pddl_plus_parser.problem_generators import get_problem_template
+from common import get_problem_template
 
 TEMPLATE_FILE_PATH = Path("farmland_template.pddl")
 

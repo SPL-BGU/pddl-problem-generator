@@ -4,7 +4,7 @@ import random
 from pathlib import Path
 from typing import NoReturn
 
-from pddl_plus_parser.problem_generators import get_problem_template
+from common import get_problem_template
 
 TEMPLATE_FILE_PATH = Path("complex_counters_template.pddl")
 
