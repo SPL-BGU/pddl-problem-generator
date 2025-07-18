@@ -3,6 +3,7 @@ Repository that holds PDDL problem generators that are not available in the clas
 
 To cite the repository use:
 
+```
 @misc{githubGitHubSPLBGUpddlproblemgenerator,
 	author = {},
 	title = {{G}it{H}ub - {S}{P}{L}-{B}{G}{U}/pddl-problem-generator: {R}epository that holds {P}{D}{D}{L} problem generators that are not available in the classical problem generator --- github.com},
@@ -10,3 +11,4 @@ To cite the repository use:
 	year = {},
 	note = {[Accessed 18-07-2025]},
 }
+```
