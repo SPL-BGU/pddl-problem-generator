@@ -1,4 +1,5 @@
-;; Enrico Scala (enricos83@gmail.com) and Miquel Ramirez (miquel.ramirez@gmail.com)
+;; Benyamin et al. 2024 (https://github.com/SPL-BGU/PDDL-Minecraft), basic PDDL version (item counts model) of the Pogo Stick problem in Polycraft Minecraft domain.
+
 (define (problem ${instance_name})
 	(:domain polycraft)
 
